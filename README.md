@@ -1,7 +1,5 @@
 ## Hi there 👋 
 
-Here are some ideas to get you started:
-
 🔭 I’m currently working at the Information Technology Department, National Hsinhua Industrial Vocational High School.
 
 💬 Ask me about basic electricity and digital logic laboratory courses, including hands-on experiments and teaching practices.
